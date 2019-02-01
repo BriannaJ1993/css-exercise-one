@@ -7,13 +7,13 @@ nav {
   height: 100px;
   margin-top: -10px;
   position: fixed;
-  width: 100px;
+  width: 100%;
 }
-/* I changed the width from % to px*/
+/* I changed the width from % to px at first*/
 
 section {
   margin: 0 auto;
-  width: 60px;
+  width: 60%;
 }
 
 h1 {
@@ -30,10 +30,10 @@ h3 {
   font-size: 1.3em;
 }
 /* I was going to change the font to px as well, but Google said em is normal in css use*/
-.element {
+.element2 {
   background-color: pink;
   height: 100px;
   margin: 10px;
-  width: 100px;
+  width: 100%;
 }
 /* I changed the width from % to px*/
