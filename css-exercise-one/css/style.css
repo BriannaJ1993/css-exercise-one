@@ -17,13 +17,13 @@ section {
 }
 
 h1 {
-  font-family sans-serif;
+  font-family: sans-serif;
   font-size: 2em;
 }
 
 .example, h3 {
   padding-top: 30px;
-  text-align center
+  text-align: center
 }
 /* I would probably add .example and the h3 below together*/
 h3 {
@@ -31,9 +31,9 @@ h3 {
 }
 /* I was going to change the font to px as well, but Google said em is normal in css use*/
 .element {
-  background-color: green;
+  background-color: pink;
   height: 100px;
-  margin 10px 0;
+  margin: 10px;
   width: 100px;
 }
 /* I changed the width from % to px*/
