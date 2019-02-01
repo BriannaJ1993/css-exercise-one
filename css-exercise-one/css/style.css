@@ -3,11 +3,11 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
-  width: 100%;
+  width: 150%;
 }
 /* I changed the width from % to px at first*/
 
@@ -37,3 +37,10 @@ h3 {
   width: 100%;
 }
 /* I changed the width from % to px*/
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
